@@ -1,5 +1,5 @@
 Hello, I am Cole Nicholson-Rubidoux. I graduated from Sonoma State University in Spring of 2021 with a degree in Computer Science and am currently looking for employment opportunities.
-If you need to contact me, you can email me at ColeNicholsonRubidoux@gmail.com
+If you need to contact me, you can email me at CNicholsonRubidoux@gmail.com
 Thanks, and have a nice day.
 
 <!---
